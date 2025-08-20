@@ -2,11 +2,11 @@ Hi there 👋
 I'm a passionate developer always looking to learn and build new things. I'm particularly interested in [Your Field/Interest], and you'll find a variety of projects here related to [Mention a specific technology or type of project, e.g., Python web development, machine learning, mobile apps].
 Feel free to explore my repositories!
 About Me
- * 🔭 I'm currently working on [Your Current Project].
- * 🌱 I'm currently learning [New Skill/Technology].
+ * 🔭 I'm currently working on [Make Amazone,Netflix clone].
+ * 🌱 I'm currently learning [Javascript/Technology].
  * 👯 I'm looking to collaborate on [Type of Project].
- * 💬 Ask me about [Your Expertise/Skills].
- * 📫 How to reach me: [Your Email Address] or connect with me on [Link to Your LinkedIn/Twitter/etc.].
+ * 💬 Ask me about [Skills-HTML,css,javascript ,c,c++].
+ * 📫 How to reach me: [amitgupta4263@gmail.com] or connect with me on [].
  * 😄 Pronouns: [Your Pronouns].
  * ⚡ Fun fact: [A Fun Fact About You].
 GitHub Stats
